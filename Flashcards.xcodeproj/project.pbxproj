@@ -14,6 +14,7 @@
 		29C0F7D62AD2CD0000310CE6 /* FlashcardsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C0F7D52AD2CD0000310CE6 /* FlashcardsTests.swift */; };
 		29C0F7E02AD2CD0000310CE6 /* FlashcardsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C0F7DF2AD2CD0000310CE6 /* FlashcardsUITests.swift */; };
 		29C0F7E22AD2CD0000310CE6 /* FlashcardsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C0F7E12AD2CD0000310CE6 /* FlashcardsUITestsLaunchTests.swift */; };
+		FA3F2DEF2AD4257500E2E42C /* FaiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3F2DEE2AD4257500E2E42C /* FaiView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		29C0F7DB2AD2CD0000310CE6 /* FlashcardsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlashcardsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		29C0F7DF2AD2CD0000310CE6 /* FlashcardsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashcardsUITests.swift; sourceTree = "<group>"; };
 		29C0F7E12AD2CD0000310CE6 /* FlashcardsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashcardsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FA3F2DEE2AD4257500E2E42C /* FaiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaiView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				29C0F7C42AD2CCFE00310CE6 /* FlashcardsApp.swift */,
+				FA3F2DEE2AD4257500E2E42C /* FaiView.swift */,
 				29C0F7C62AD2CCFE00310CE6 /* ContentView.swift */,
 				29C0F7C82AD2CD0000310CE6 /* Assets.xcassets */,
 				29C0F7CA2AD2CD0000310CE6 /* Preview Content */,
@@ -259,6 +262,7 @@
 			files = (
 				29C0F7C72AD2CCFE00310CE6 /* ContentView.swift in Sources */,
 				29C0F7C52AD2CCFE00310CE6 /* FlashcardsApp.swift in Sources */,
+				FA3F2DEF2AD4257500E2E42C /* FaiView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
